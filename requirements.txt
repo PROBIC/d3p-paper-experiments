@@ -1,0 +1,9 @@
+d3p @ git+https://github.com/DPBayes/d3p@f57e6935f449d227295fb7d0c05798bcc4df419b#egg=d3p
+fourier-accountant==0.12.11
+jax==0.2.13
+jaxlib==0.1.65
+tensorflow-privacy==0.7.3
+tensorflow-probability==0.13.0
+tqdm
+matplotlib==3.5.1
+scikit-learn==1.0.1
